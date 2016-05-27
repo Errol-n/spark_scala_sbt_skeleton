@@ -1,7 +1,6 @@
 package start
 
 import org.apache.log4j._
-import org.apache.spark.sql.expressions.Window
 import org.apache.spark.sql.functions._
 import org.apache.spark.{SparkConf, SparkContext}
 
